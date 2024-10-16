@@ -1,5 +1,5 @@
 :root {
-  --primary: #b6895b;
+  --primary: #b68a5d;
   --bg: #010101;
 }
 
@@ -49,7 +49,7 @@ body {
 }
 
 .navbar .navbar-nav a {
-  color: #fff;
+  color: #c60f8c;
   display: inline-block;
   font-size: 1.3rem;
   margin: 0 1rem;
